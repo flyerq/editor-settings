@@ -1,0 +1,10 @@
+<application>
+  <component name="AngularJSConfig">
+    <option name="INSERT_WHITESPACE" value="true" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="F:/NodeJS/node.exe">
+      <version-cache version="7.0.0" last-modified="1477373192000" />
+    </local-interpreter>
+  </component>
+</application>

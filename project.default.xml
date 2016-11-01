@@ -1,0 +1,169 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+        </profile>
+        <option name="PROJECT_PROFILE" value="Project Default" />
+        <option name="USE_PROJECT_PROFILE" value="true" />
+        <version value="1.0" />
+      </component>
+      <component name="JSHintConfiguration" version="2.9.2" use-config-file="false">
+        <option asi="true" />
+        <option bitwise="true" />
+        <option boss="true" />
+        <option browser="true" />
+        <option browserify="false" />
+        <option camelcase="true" />
+        <option couch="false" />
+        <option curly="true" />
+        <option debug="true" />
+        <option devel="false" />
+        <option dojo="false" />
+        <option elision="true" />
+        <option enforceall="true" />
+        <option eqeqeq="true" />
+        <option eqnull="true" />
+        <option es3="true" />
+        <option es5="true" />
+        <option esnext="true" />
+        <option evil="true" />
+        <option expr="true" />
+        <option forin="true" />
+        <option freeze="true" />
+        <option funcscope="true" />
+        <option futurehostile="true" />
+        <option gcl="false" />
+        <option globalstrict="true" />
+        <option immed="true" />
+        <option iterator="true" />
+        <option jasmine="false" />
+        <option jquery="false" />
+        <option lastsemic="true" />
+        <option latedef="false" />
+        <option laxbreak="true" />
+        <option laxcomma="true" />
+        <option loopfunc="true" />
+        <option maxerr="50" />
+        <option mocha="false" />
+        <option module="true" />
+        <option mootools="false" />
+        <option moz="true" />
+        <option multistr="true" />
+        <option newcap="true" />
+        <option noarg="true" />
+        <option nocomma="true" />
+        <option node="true" />
+        <option noempty="true" />
+        <option nomen="false" />
+        <option nonbsp="true" />
+        <option nonew="true" />
+        <option nonstandard="false" />
+        <option notypeof="true" />
+        <option noyield="true" />
+        <option onevar="false" />
+        <option passfail="false" />
+        <option phantom="false" />
+        <option plusplus="true" />
+        <option proto="true" />
+        <option prototypejs="false" />
+        <option qunit="false" />
+        <option quotmark="false" />
+        <option rhino="false" />
+        <option scripturl="true" />
+        <option shadow="true" />
+        <option shelljs="false" />
+        <option singleGroups="true" />
+        <option smarttabs="false" />
+        <option strict="true" />
+        <option sub="true" />
+        <option supernew="true" />
+        <option trailing="false" />
+        <option typed="false" />
+        <option undef="true" />
+        <option unused="false" />
+        <option validthis="true" />
+        <option varstmt="true" />
+        <option white="false" />
+        <option withstmt="true" />
+        <option worker="false" />
+        <option wsh="false" />
+        <option yui="false" />
+      </component>
+      <component name="JSLintConfiguration" json="true">
+        <option bitwise="true" />
+        <option browser="true" />
+        <option es6="true" />
+        <option eval="true" />
+        <option for="true" />
+        <option maxerr="50" />
+        <option maxlen="80" />
+        <option multivar="true" />
+        <option node="true" />
+        <option this="true" />
+        <option white="true" />
+      </component>
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="ECMAScript 6" />
+        <includedPredefinedLibrary name="Node.js Core" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="qujin" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state />
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSLint" />
+        <property name="nodejs_interpreter_path" value="F:/NodeJS/node" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="javascript.nodejs.core.library.configured.version" value="6.7.0" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="js.eslint.eslintPackage" value="C:\Users\qujin\AppData\Roaming\npm\node_modules\eslint" />
+        <property name="HbShouldOpenHtmlAsHb" value="" />
+        <property name="js-jscs-nodeInterpreter" value="F:\NodeJS\node.exe" />
+        <property name="js.eslint.nodeInterpreter" value="project" />
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
