@@ -50,6 +50,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="3" />
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
