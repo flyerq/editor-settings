@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="37a186bf-44a5-4036-b252-b48ef5e03166" name="flyerq.com" url="http://www.flyerq.com">
+        <fileTransfer host="www.flyerq.com" port="22" rootFolder="/data/website" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
